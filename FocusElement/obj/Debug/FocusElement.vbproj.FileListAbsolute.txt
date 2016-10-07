@@ -1,0 +1,11 @@
+H:\FocusElement\FocusElement\bin\Debug\FocusElement.exe.config
+H:\FocusElement\FocusElement\bin\Debug\FocusElement.exe
+H:\FocusElement\FocusElement\bin\Debug\FocusElement.pdb
+H:\FocusElement\FocusElement\bin\Debug\FocusElement.xml
+H:\FocusElement\FocusElement\obj\Debug\FocusElement.vbprojResolveAssemblyReference.cache
+H:\FocusElement\FocusElement\obj\Debug\FocusElement.Facebook_Form.resources
+H:\FocusElement\FocusElement\obj\Debug\FocusElement.Resources.resources
+H:\FocusElement\FocusElement\obj\Debug\FocusElement.vbproj.GenerateResource.Cache
+H:\FocusElement\FocusElement\obj\Debug\FocusElement.exe
+H:\FocusElement\FocusElement\obj\Debug\FocusElement.xml
+H:\FocusElement\FocusElement\obj\Debug\FocusElement.pdb
